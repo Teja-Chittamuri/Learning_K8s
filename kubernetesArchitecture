@@ -1,0 +1,1 @@
+Kubernetes Cluster consists of ControlPlane and Worker Nodes. pods, Replicaset,Deployment,Services are the major things that helps to create pods and scale them effiecntly.
